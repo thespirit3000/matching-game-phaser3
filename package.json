@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-project-template",
+  "name": "matching-game",
   "version": "1.1.2",
-  "description": "Phaser 3 with typescript project Template",
+  "description": "Phaser 3 matching game",
   "main": "src/index.ts",
   "scripts": {
     "build": "webpack --config webpack/prod.js ",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thespirit3000/phaser3-ts-template.git"
+    "url": "git+https://github.com/thespirit3000/matching-game-phaser3"
   },
   "author": "Dzianis Bogdan",
   "license": "MIT",
