@@ -1,0 +1,108 @@
+{"frames": {
+
+"pastry_cookie01.png":
+{
+	"frame": {"x":0,"y":0,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_cookie02.png":
+{
+	"frame": {"x":0,"y":72,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_croissant.png":
+{
+	"frame": {"x":0,"y":144,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_cupcake.png":
+{
+	"frame": {"x":0,"y":216,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_donut.png":
+{
+	"frame": {"x":0,"y":288,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_eclair.png":
+{
+	"frame": {"x":0,"y":360,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_macaroon.png":
+{
+	"frame": {"x":0,"y":432,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_pie.png":
+{
+	"frame": {"x":0,"y":504,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_poptart01.png":
+{
+	"frame": {"x":0,"y":576,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_poptart02.png":
+{
+	"frame": {"x":0,"y":648,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_starcookie01.png":
+{
+	"frame": {"x":0,"y":720,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+"pastry_starcookie02.png":
+{
+	"frame": {"x":0,"y":792,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pastries.png",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":864},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b0fce00e72cdbc30dcc3bac183400faa:b31339050722a32db259ed66632a0804:7d6d113864528657945138570b462cbe$"
+}
+}

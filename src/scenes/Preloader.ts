@@ -9,6 +9,11 @@ export default class Preloader extends Phaser.Scene {
   preload() {
     this.load.image(TextureKeys.Background, "public/bg.png");
     this.load.image(TextureKeys.Tile, "public/GameTileBG.png");
+    this.load.atlas(
+      TextureKeys.Gems,
+      "public/pastries.png",
+      "public/pastries.json"
+    );
   }
   create() {
     this.scene.start(SceneKeys.Game);
