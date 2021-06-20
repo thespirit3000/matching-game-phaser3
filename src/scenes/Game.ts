@@ -1,6 +1,6 @@
-import Phaser from 'phaser';
-import SceneKeys from '../constants/SceneKeys';
-import TextureKeys from '../constants/TextureKeys';
+import Phaser from "phaser";
+import SceneKeys from "../constants/SceneKeys";
+import TextureKeys from "../constants/TextureKeys";
 
 const gameOptions = {
   padding: 30,
@@ -21,7 +21,7 @@ export default class Game extends Phaser.Scene {
   private gameArray: Array<Array<TGem>>;
 
   constructor() {
-    super('game');
+    super("game");
     this.gameArray = [];
   }
 
@@ -45,14 +45,15 @@ export default class Game extends Phaser.Scene {
         cellSize,
         cellSize,
         0xc3dfff,
-        0.7,
+        0.7
       )
       .setOrigin(0, 0);
     this.drawField(gameOptions.cellCount, gameOptions.gemTypes);
   }
 
   private drawField(fieldSize, typesCount) {
-    console.log('writin')
+    console.log("writin");
+    console.log("newLog");
   }
 
   update() {}
