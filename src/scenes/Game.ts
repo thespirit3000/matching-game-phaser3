@@ -52,6 +52,7 @@ export default class Game extends Phaser.Scene {
   }
 
   private drawField(fieldSize, typesCount) {
+    console.log('writin')
   }
 
   update() {}
